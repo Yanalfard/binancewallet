@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinanceWallet", "BinanceWallet\BinanceWallet.csproj", "{CDEBE82E-D485-4422-A1AA-A466D7D0814D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BinanceSocket", "BinanceSocket\BinanceSocket.pyproj", "{F07BC71D-02B2-4888-ACFB-87A461901166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{CBBADFDA-87BF-4847-A334-58544F07DBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEBE82E-D485-4422-A1AA-A466D7D0814D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEBE82E-D485-4422-A1AA-A466D7D0814D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEBE82E-D485-4422-A1AA-A466D7D0814D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEBE82E-D485-4422-A1AA-A466D7D0814D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07BC71D-02B2-4888-ACFB-87A461901166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07BC71D-02B2-4888-ACFB-87A461901166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBADFDA-87BF-4847-A334-58544F07DBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBADFDA-87BF-4847-A334-58544F07DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBADFDA-87BF-4847-A334-58544F07DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBADFDA-87BF-4847-A334-58544F07DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E64F8BCB-AF61-4B68-B60A-CEBA3BA9C6EA}
+	EndGlobalSection
+EndGlobal
